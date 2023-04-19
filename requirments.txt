@@ -1,0 +1,9 @@
+1. pywhatkit-> pip install pywhatkit
+
+2. pyautogui-> pip install pyautogui
+
+3. tkinter-> pip install tk
+
+4. pandas-> pip install pandas
+
+5. internet-> pip install internet
